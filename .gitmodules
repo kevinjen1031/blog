@@ -1,0 +1,3 @@
+[submodule "themes/Ghost"]
+	path = themes/Ghost
+	url = git@github.com:TryGhost/Ghost.git

@@ -1,7 +1,17 @@
 ---
-title: Ubuntu 搭建tftp server
-date: 2016-04-26 16:22:01
-tags:
+title:  'This is the title: it contains a colon'
+author:
+- Author One
+- Author Two
+date: '`r format(Sys.time(), '%d %B %Y')`'
+tags: [nothing, nothingness]
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+output: 
+    pdf_document:
+        template: NULL
 ---
 
 ```bash

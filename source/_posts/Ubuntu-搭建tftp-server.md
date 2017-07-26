@@ -1,9 +1,10 @@
 ---
 title:  'This is the title: it contains a colon'
+subtitle: 'This is the subtitle'
 author:
 - Author One
 - Author Two
-date: '`r format(Sys.time(), '%d %B %Y')`'
+date: "`r format(Sys.time(), '%d %B %Y')`"
 tags: [nothing, nothingness]
 abstract: |
   This is the abstract.
